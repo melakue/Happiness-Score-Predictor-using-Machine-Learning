@@ -10,6 +10,7 @@ Machine learning technique is used to train the machine and create a happiness s
 ![Image description](https://github.com/melakue/Happiness-Score-Predictor-using-Machine-Learning/blob/master/Generosity_Happiness.png)
 ![Image description](https://github.com/melakue/Happiness-Score-Predictor-using-Machine-Learning/blob/master/GDP_Happiness.png)
 ![Image description](https://github.com/melakue/Happiness-Score-Predictor-using-Machine-Learning/blob/master/Life_Expectancy-Happiness.png)
+![Image description](https://github.com/melakue/Happiness-Score-Predictor-using-Machine-Learning/blob/master/fertility%20and%20happiness.JPG)
 ![Image description](https://github.com/melakue/Happiness-Score-Predictor-using-Machine-Learning/blob/master/Happiness%20Score%20Predictor%20HTML.JPG)
 
 
